@@ -1,31 +1,51 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+C42 OS Proprietary License v1.0
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+Copyright (c) 2024 [Your Name/Company]
 
-   1. Definitions.
+IMPORTANT: This software is proprietary and commercially licensed.
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+1. GRANT OF RIGHTS
+   Subject to the terms of this license, you are granted a non-exclusive, 
+   non-transferable right to:
+   a) Use this software for personal evaluation purposes only
+   b) View and study the source code for educational purposes only
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+2. RESTRICTIONS
+   You may NOT:
+   a) Use this software for any commercial purposes
+   b) Distribute, sublicense, or sell copies of this software
+   c) Modify, adapt, or create derivative works
+   d) Remove or alter any proprietary notices
+   e) Reverse engineer (except as permitted by law)
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+3. RESERVATION OF RIGHTS
+   All rights not expressly granted are reserved. This includes but is not 
+   limited to patents, trademarks, copyrights, and trade secrets.
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+4. COMMERCIAL LICENSING
+   Commercial use requires a separate commercial license. 
+   Contact: licensing@c42os.com
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+5. FUTURE OPEN SOURCE TRANSITION
+   The copyright holder reserves the right to release future versions 
+   under open source licenses at their sole discretion.
+
+6. NO WARRANTY
+   This software is provided "AS IS" without warranty of any kind.
+
+7. LIMITATION OF LIABILITY
+   In no event shall the copyright holder be liable for any damages.
+
+8. TERMINATION
+   This license terminates automatically if you breach any terms.
+
+For commercial licensing inquiries: licensing@c42os.com
+For other questions: legal@c42os.com
+
+This license protects the investment in revolutionary consciousness 
+computing research while preserving the option for future open source 
+contribution to humanity.
+
 
       "Object" form shall mean any form resulting from mechanical
       transformation or translation of a Source form, including but
