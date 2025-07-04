@@ -1,0 +1,5 @@
+{
+  "name": "AI Conversation Knowledge Base",
+  "description": "An application to upload, search, and analyze your conversation history with various AI models. Built as a companion for C42 OS.",
+  "requestFramePermissions": []
+}
